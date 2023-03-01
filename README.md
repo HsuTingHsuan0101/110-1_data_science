@@ -1,6 +1,7 @@
 # 110-1_data_science
 110-1 NTU Courses: Programming for Social Science and Data Science
 
+## **I. Web Crawling**
 ## 01_Counting
 * library：`Counter`,  `wikipedia` , `matplotlib`
 * 從wilipedia引入英文文本，計算各字詞出現次數並視覺化呈現
@@ -18,3 +19,12 @@
 ## 04_Crawl_html_PTTjob
 * library：`requests`, `BeautifulSoup`, `pandas`
 * 爬取PTT工作版 (https://www.ptt.cc/bbs/job/index.html) 之作者、標題、內容、時間等
+
+## **II. Text Mining**
+## 05_TM01_tokenization_ENG
+Loading English Data from Wiki then tokenize
+* Tokenization( `.split()`,  `ntlk`, * function)
+* Counting
+* Stopword and Punctuation Removal
+* Stemming and Lemmatization
+* Application: WordCloud 文字雲
