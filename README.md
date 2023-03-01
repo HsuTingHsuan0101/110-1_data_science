@@ -23,7 +23,8 @@
 ## **II. Text Mining**
 ## 05_TM01_tokenization_ENG
 Loading English Data from Wiki then tokenize
-* Tokenization( `.split()`,  `ntlk`, * function)
+library：`wikipedia`, `string`, `nltk`, `counter`
+* Tokenization
 * Counting
 * Stopword and Punctuation Removal
 * Stemming and Lemmatization
