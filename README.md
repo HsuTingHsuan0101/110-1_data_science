@@ -3,7 +3,7 @@
 
 ## 01_Counting
 * library：`Counter`,  `wikipedia` , `matplotlib`
-* 從wikipedia引入資料，計算字詞出現次數並視覺化呈現
+* 從wilipedia引入英文文本，計算各字詞出現次數並視覺化呈現
 
 ## 02_Crawl_json_Dcard
 * library：`requests`, `json`, `pandas`
